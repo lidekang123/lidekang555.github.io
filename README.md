@@ -1,7 +1,7 @@
 <p align="center"><a href="http://sioxas.github.io/" target="_blank"><img width="300"src="https://github.com/Sioxas/GitImage/raw/master/Apple_Music_Blur.png"></a></p>
 <p align="center">Vue 音乐搜索、播放 Demo，资源来自QQ音乐</p>
 
-<p align="center">查看Demo:<a href="http://sioxas.github.io/">http://lidekang555.github.io/</a>
+<p align="center">查看Demo:<a href="http://sioxas.github.io/">http://sioxas.github.io/</a>
 
 
 ### 实现的功能
